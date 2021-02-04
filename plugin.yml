@@ -1,0 +1,13 @@
+name: Schematics
+main: Bestaford\Schematics
+api: 3.0.0
+version: 1.0
+author: Bestaford
+commands:
+  schematics:
+    description: Управление схемами
+    aliases: [schem]
+    permission: schematics.use
+permissions:
+  schematics.use:
+    default: op
