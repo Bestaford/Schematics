@@ -1,4 +1,8 @@
 # Schematics
+| Скачать |
+| :---: |
+| [![Download](https://img.shields.io/github/downloads/Bestaford/Schematics/latest/total)](https://github.com/Bestaford/Schematics/releases/download/1.0/Schematics.phar)
+___
 ![screenshot](https://talk.24serv.pro/uploads/default/optimized/2X/b/b6f4045f9dd75eee8797fe2825928fe640ff4336_2_690x388.png)
 ___
 Плагин для управления схемами блоков
